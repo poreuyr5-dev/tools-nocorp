@@ -13,7 +13,7 @@ pelanggaran privasi.
 ```bash
 pkg install -y git python
 git clone https://github.com/poreuyr5-dev/tools-nocorp.git
-cd nanoz-termux-tools-py
+cd tools-nocorp
 bash install.sh
 ```
 
