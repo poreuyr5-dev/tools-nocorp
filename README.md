@@ -12,7 +12,7 @@ pelanggaran privasi.
 
 ```bash
 pkg install -y git python
-git clone https://github.com/USERNAME/nanoz-termux-tools-py.git
+git clone https://github.com/poreuyr5-dev/tools-nocorp.git
 cd nanoz-termux-tools-py
 bash install.sh
 ```
